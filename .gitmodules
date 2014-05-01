@@ -1,6 +1,0 @@
-[submodule "lesshat"]
-	path = lesshat
-	url = git://github.com/madebysource/lesshat.git
-[submodule "animateCSS"]
-	path = animateCSS
-	url = git://github.com/daneden/animate.css.git
